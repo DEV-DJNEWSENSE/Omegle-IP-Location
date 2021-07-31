@@ -17,3 +17,9 @@ Get the strangers location from his IP
 
 // --------------------------------------------
 
+// THE ABOVE STEPS ARE FOR EDUCATIONAL PURPOSE ONLY 
+
+// I AM NOT RESPONSIBLE FOR THE USE OF THESE STEPS
+
+//---------------------------------------------
+
